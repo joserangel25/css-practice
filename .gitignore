@@ -1,0 +1,6 @@
+*
+!.gitignore
+!animaciones-practicas/
+!animaciones-practicas/manz
+!animaciones-practicas/manz/**
+
